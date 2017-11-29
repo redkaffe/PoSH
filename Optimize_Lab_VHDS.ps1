@@ -1,0 +1,1 @@
+C:\Users\Admin\Desktop\OptimizeVHDs.ps1 -VMnames CM01,DC01,SCOM, SCSM, FS01,TEST-MIG1,WIN10_1, WIN10_2 -verbose
